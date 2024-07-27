@@ -364,3 +364,7 @@ footer .social-link:focus {
     color:#FFFFFF ;
     margin-bottom: 16px;
   }
+  footer .team-list-link {
+    gap: 16px;
+    padding: 0;
+  }
