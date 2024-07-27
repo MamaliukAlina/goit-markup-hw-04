@@ -305,6 +305,7 @@ address ul li + li{
   padding: 40px 32px;
   background-color: #4D5AE5;
   color: #F4F4FD;
+  letter-spacing: 0.02em;
   top: 0;
   left: 0;
   width: 100%;
