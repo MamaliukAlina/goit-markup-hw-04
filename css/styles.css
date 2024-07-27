@@ -344,6 +344,7 @@ footer .logo span {
 
 footer .container {
   display: flex;
+  align-items: baseline;
 }
 footer .column2 {
   font-weight: 500;
@@ -357,4 +358,8 @@ footer .social-link {
 footer .social-link:hover,
 footer .social-link:focus {
   background-color: #31D0AA;
+  }
+  .footer-paragraph {
+    color:#FFFFFF ;
+    margin-bottom: 16px;
   }
