@@ -255,7 +255,7 @@ address ul li + li{
   display:flex;
   justify-content: center;
   gap: 24px;
-  padding: 16px;
+  margin: 24px 0;
 }
 .team-list-item {
   background-color: #FFFFFF;
