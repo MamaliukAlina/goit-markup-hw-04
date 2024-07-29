@@ -225,8 +225,11 @@ address ul li + li{
 }
 .strategy-icon{
   padding: 24px;
+  margin-bottom: 8px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 112px;
   border: 1px solid #8E8F99;
   border-radius: 4px;
   background-color: #F4F4FD;
